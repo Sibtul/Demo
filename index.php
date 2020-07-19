@@ -1,3 +1,3 @@
 <?php
-include_once("Mainindex.html");
+include_once("landingpage.html");
 ?>
